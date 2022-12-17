@@ -1,7 +1,7 @@
 {
-	"FileVersion": 1,
+	"FileVersion": 3,
 	"Version": 1,
-	"VersionName": "1.0",
+	"VersionName": "1.5.0",
 	"FriendlyName": "LogitechWheelPlugin",
 	"Description": "Input Device Plugin for Logitech Wheels",
 	"Category": "Input",
@@ -11,8 +11,8 @@
 	"MarketplaceURL": "",
 	"SupportURL": "",
 	"CanContainContent": false,
-	"IsBetaVersion": false,
-	"Installed": true,
+	"IsBetaVersion": true,
+	"Installed": false,
 	"Modules": [
 		{
 			"Name": "LogitechWheelPlugin",
